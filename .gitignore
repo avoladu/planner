@@ -1,0 +1,5 @@
+env
+*.pyc
+migrations
+# Project exclude paths
+/env_planner/

@@ -1,0 +1,5 @@
+[client]
+database = planner
+user = planner_user
+password = Cengage1!
+default-character-set = utf8
